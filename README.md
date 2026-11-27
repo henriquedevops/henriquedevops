@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=henriquedevops&label=visitas&color=a855f7&style=for-the-badge" alt="Visitas ao perfil" />
-  <a href="https://github.com/henriquedevops?tab=followers"><img src="https://img.shields.io/github/followers/henriquedevops?label=seguidores&logo=github&style=for-the-badge&color=22d3ee&labelColor=0d1117" alt="Seguidores no GitHub" /></a>
 </p>
 
 ## 👾 Sobre mim
@@ -37,13 +36,7 @@ class Henrique:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2" alt="MLflow" />
-  <img src="https://img.shields.io/badge/DVC-0d1117?style=for-the-badge&logo=dvc&logoColor=13ADC7" alt="DVC" />
-  <img src="https://img.shields.io/badge/Airflow-0d1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/ONNX_Runtime-0d1117?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX Runtime" />
-  <img src="https://img.shields.io/badge/Evidently-0d1117?style=for-the-badge" alt="Evidently" />
-  <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" />
+  <img src="assets/tools.svg" alt="MLflow, DVC, Airflow, ONNX Runtime, Evidently, Pandera, Ollama, Jupyter" />
 </p>
 
 ## 🚀 Projetos em destaque
@@ -86,7 +79,7 @@ class Henrique:
 ## 🤝 Contato
 
 <p align="center">
-  <a href="https://github.com/henriquedevops"><img src="https://img.shields.io/badge/GitHub-henriquedevops-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" /></a>
+  <a href="https://github.com/henriquedevops?tab=followers"><img src="assets/follow.svg" alt="Seguir @henriquedevops no GitHub" /></a>
   <!-- Descomente e troque pelos seus links:
   <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=protonmail&logoColor=8B89CC" alt="E-mail" /></a>
