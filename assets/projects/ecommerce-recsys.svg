@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" role="img" aria-labelledby="t">
+  <title id="t">ecommerce-recsys — sistema de recomendação para e-commerce com PyTorch, uv, DVC, MLflow e Docker (Tech Challenge FIAP)</title>
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset="0.5" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b0f17"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .m{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+    .s{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif}
+  </style>
+  <rect x="1" y="1" width="478" height="238" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="478" height="238" rx="14" fill="url(#gl)"/>
+  <rect x="1" y="1" width="478" height="238" rx="14" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+
+  <text x="28" y="40" class="m" font-size="11" letter-spacing="1.5" fill="#c084fc">RECOMENDAÇÃO · FIAP</text>
+  <text x="438" y="40" text-anchor="end" class="m" font-size="11" fill="#8b949e">Python</text>
+  <circle cx="448" cy="36" r="4" fill="#3572A5"/>
+
+  <text x="28" y="76" class="s" font-size="22" font-weight="700" fill="#e6edf3">ecommerce-recsys</text>
+  <text class="s" font-size="14" fill="#8b949e">
+    <tspan x="28" y="108">Sistema de recomendação para e-commerce, feito</tspan>
+    <tspan x="28" y="130">no Tech Challenge da Fase 02 de ML Engineering</tspan>
+    <tspan x="28" y="152">na FIAP, com dados e modelos versionados.</tspan>
+  </text>
+
+  <g class="m" font-size="11" text-anchor="middle">
+    <rect x="28" y="184" width="67" height="24" rx="12" fill="#a855f7" fill-opacity=".12" stroke="#a855f7" stroke-opacity=".55"/>
+    <text x="61.5" y="200" fill="#d8b4fe">PyTorch</text>
+    <rect x="103" y="184" width="34" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/>
+    <text x="120" y="200" fill="#a5f3fc">uv</text>
+    <rect x="145" y="184" width="40" height="24" rx="12" fill="#a855f7" fill-opacity=".12" stroke="#a855f7" stroke-opacity=".55"/>
+    <text x="165" y="200" fill="#d8b4fe">DVC</text>
+    <rect x="193" y="184" width="60" height="24" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".5"/>
+    <text x="223" y="200" fill="#a5f3fc">MLflow</text>
+    <rect x="261" y="184" width="60" height="24" rx="12" fill="#a855f7" fill-opacity=".12" stroke="#a855f7" stroke-opacity=".55"/>
+    <text x="291" y="200" fill="#d8b4fe">Docker</text>
+  </g>
+  <text x="452" y="201" text-anchor="end" class="m" font-size="14" fill="#22d3ee">→</text>
+</svg>
